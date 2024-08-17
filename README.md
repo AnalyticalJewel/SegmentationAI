@@ -13,4 +13,17 @@ SegmentationAI is a comprehensive project aimed at identifying key customer segm
    
 ![Screenshot (51)](https://github.com/user-attachments/assets/2b9e2095-6d02-4568-802c-bf702da35e4a)
 
-Figure: Results of the K means clustering
+Figure 1: Results of the K means clustering
+
+2. Number of customers in each age year: Python- Exploratory Data Analysis
+
+   ![Screenshot (52)](https://github.com/user-attachments/assets/cb6a3de2-6707-4f86-81b2-49826ef18902)
+
+Figure 2: The mumber of customers in each age year
+
+3. Purchase by gender: Python- Exploratory Data Analytics
+
+   ![Screenshot (53)](https://github.com/user-attachments/assets/b43508f7-49b2-4c31-9c46-18e328c8c799)
+
+FIrgure 3: 0 represents female and 1 represents male
+
